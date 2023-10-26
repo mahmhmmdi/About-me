@@ -7,11 +7,11 @@ editor: visual
 
 ## About Me:
 
-I'm Mahsa. Born in north of Iranian the middle of the spring, which is why I'm in love with nature.
+I'm Mahsa, born in the lush heart of northern Iran in the midst of spring, which instilled in me a deep love for nature.
 
-I'm a second year PhD student in Complex biosyems program. Since my adviser is part of Biological engineering department, I am part of BSE as well!
+Currently, I'm a second-year PhD student in the Complex Biosystems program. Since my advisor is affiliated with the Biological Engineering department, I'm also a part of BSE.
 
-I'm working on developing new tools or theories to be able to model the microbiome. So after graduation I'll be computational biologist.
+My research focus involves creating innovative tools and theories for microbiome modeling, with the ultimate aim of becoming a computational biologist upon graduation.
 
 ## My favorite animal
 
