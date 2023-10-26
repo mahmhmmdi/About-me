@@ -1,0 +1,35 @@
+---
+title: "Interview"
+author: "Mahsa Mohammadi"
+format: beamer
+editor: visual
+---
+
+## About Me:
+
+I'm Mahsa. Born in north of Iranin the middle of the spring, which is why I'm in love with nature.
+
+I'm a second year PhD student in Complex biosysyems program. Since my advisor is part of Biological engineering department, I am part of BSE as well!
+
+I'm working on developing new tools or theories to be able to model the microbiome. So after graduation I'll be computational biologist.
+
+## My favorite animal
+
+![](cat.jpg)
+
+## My favorite code
+
+```{r}
+library(readr)
+banknote <- read_csv("banknote.csv")
+library(ggplot2)
+ggplot(banknote, aes(x = Bottom, fill = Status)) +
+  geom_histogram(binwidth = 0.2)
+
+```
+
+## My CV
+
+To see the PDF format of my CV [click here](https://github.com/mahmhmmdi/About-me/blob/main/CV.pdf).
+
+Here is my [LinkedIn](https://www.linkedin.com/in/mah-mohammadi).
